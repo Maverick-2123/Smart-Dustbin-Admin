@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928086574868",
+    "project_id": "protechtor-c96b8",
+    "storage_bucket": "protechtor-c96b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928086574868:android:42a9dceacf3f92fd7fe401",
+        "android_client_info": {
+          "package_name": "com.example.protechtoradmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928086574868-ccu4pjet014qrrc3fr414klv4kugtqhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyAv4suNmIqMsvsE8_-P_sbbgX3ivXoCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928086574868-ccu4pjet014qrrc3fr414klv4kugtqhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
